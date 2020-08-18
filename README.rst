@@ -1,3 +1,7 @@
+# Description
+
+This fork adds support to the curve bn256, used in Ethereum.
+
 ECPy
 ====
 
