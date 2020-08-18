@@ -1,9 +1,11 @@
-# Description
-
-This fork adds support to the curve bn256, used in Ethereum.
 
 ECPy
 ====
+
+**Description**
+
+This fork adds support to the curve bn256, used in Ethereum.
+
 
 ECPy (pronounced ekpy), is a pure python Elliptic Curve library
 providing ECDSA, EDDSA (Ed25519), ECSchnorr, Borromean signatures as well as Point
